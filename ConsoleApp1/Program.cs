@@ -4,7 +4,7 @@ Console.WriteLine("Hello, World version Feb 24  !");
 double y;
 y = 1.234567;
 
-y = 1.2;
+//y = 1.2;
 
 //string abc;
 
