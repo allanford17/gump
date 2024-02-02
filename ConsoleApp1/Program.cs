@@ -1,5 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World version 2  !");
+Console.WriteLine("Hello, World version Feb 24  !");
 
 double y;
 y = 1.234567;
